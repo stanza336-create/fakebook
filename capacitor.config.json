@@ -1,7 +1,7 @@
 {
   "appId": "com.example.fakebook",
   "appName": "Fakebook",
-  "webDir": ".",
+  "webDir": "www",
   "bundledWebRuntime": false,
   "android": {
     "allowMixedContent": true
@@ -10,5 +10,3 @@
     "cleartext": true
   }
 }
-
-
